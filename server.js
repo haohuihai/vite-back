@@ -10,5 +10,5 @@ let server = http.createServer(function(req,res){
   }
 });
 server.listen(10001,()=>{
-  console.log('服务正在10001端口上启动了水1水水水11111133311水aaaa!');
+  console.log('服务正在10001端口上启动了');
 });
