@@ -9,6 +9,6 @@ let server = http.createServer(function(req,res){
     res.end('Now Found!aaa');
   }
 });
-server.listen(10001,()=>{
-  console.log('服务正在10001端口上启动了1');
+server.listen(10002,()=>{
+  console.log('服务正在10002端口上启动了1');
 });
